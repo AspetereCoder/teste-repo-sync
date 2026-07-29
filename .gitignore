@@ -1,0 +1,14 @@
+# Obsidian
+.obsidian/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.fleet/
