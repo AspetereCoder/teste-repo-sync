@@ -1,4 +1,4 @@
-teste do joao
+ste do joao
 
 <<<<<<< HEAD
 teste do pedro
